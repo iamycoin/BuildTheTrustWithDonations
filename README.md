@@ -4,29 +4,29 @@ So in order to trust you must believe in this Crypto is not managed by stupids o
 
 <b><i>To donate most of coins mined till now by me to known trusted people what are recognized for their performance by anyone from this planet! At this moment I have mined +9 mil Coins which means more than 25% from 28 mil Coins what are available to be mined. I am happy to remain with 10% from the total mined Coins and to make donations to next people and companies:</b></i>
 
-[Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg) - 500K MyCoin Coins
+[Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) - 500K MyCoin Coins
+[Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) - 500K MyCoin Coins
+[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) - 500K MyCoin Coins
+[Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett) - 500K MyCoin Coins
+[Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[JP Morgan](https://www.jpmorgan.com/) - 500K MyCoin Coins
+[JP Morgan](https://www.jpmorgan.com/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[Harvard University](https://www.harvard.edu/) - 500K MyCoin Coins
+[Harvard University](https://www.harvard.edu/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[Massachusetts Institute of Technology](https://www.mit.edu/) - 500K MyCoin Coins
+[Massachusetts Institute of Technology](https://www.mit.edu/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[WorldQuant University](https://www.wqu.edu/) - 500K MyCoin Coins
+[WorldQuant University](https://www.wqu.edu/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[BitcoinTalk](https://bitcointalk.org/) - 500K MyCoin Coins
+[BitcoinTalk](https://bitcointalk.org/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[CoinMarketCap](https://coinmarketcap.com/) - 500K MyCoin Coins
+[CoinMarketCap](https://coinmarketcap.com/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-[CoinGecko](https://www.coingecko.com/) - 500K MyCoin Coins
+[CoinGecko](https://www.coingecko.com/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
 Total Coins ready to be sent 6_000_000
 Do not hesitate to open a topic on BitcoinTalk Community to suggest more entities or people you trust, I will follow the BitcoinTalk to find out who is next for the donation list after votes number. 
