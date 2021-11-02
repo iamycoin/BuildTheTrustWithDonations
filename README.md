@@ -24,7 +24,11 @@ So in order to trust you must believe in this Crypto is not managed by stupids o
 
 [BitcoinTalk](https://bitcointalk.org/) - 500K MyCoin Coins
 
-Total Coins ready to be sent 5_000_000
+[CoinMarketCap](https://coinmarketcap.com/) - 500K MyCoin Coins
+
+[CoinGecko](https://www.coingecko.com/) - 500K MyCoin Coins
+
+Total Coins ready to be sent 6_000_000
 Do not hesitate to open a topic on BitcoinTalk Community to suggest more entities or people you trust, I will follow the BitcoinTalk to find out who is next for the donation list after votes number. 
 
 In order to get my donation the people and entities from the list above have to pull request this README file with their own MyCoin Address where to be send the Coins, they must use a verified(official) account recognized by GitHub Platform.
