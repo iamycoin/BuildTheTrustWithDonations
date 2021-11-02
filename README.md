@@ -29,3 +29,19 @@ Do not hesitate to open a topic on BitcoinTalk Community to suggest more entitie
 
 In order to get my donation the people and entities from the list above have to pull request this README file with their own MyCoin Address where to be send the Coins, they must use a verified(official) account recognized by GitHub Platform.
 
+<hr>
+
+# Budget for Devs
+1 MyCoin Coin per commit made for Bitcoin Devs
+
+I am ready now to share Coins to all <b>828 Bitcoin Devs</b> in order to get the gift from me if you are one of them just do a pull request for this <b>README.md</b> file by adding your <b>MyCoin Address</b> and asap you will be rewarded with <b>1 MyCoin Coin/each commit made</b>.
+
+### Min requirements:
+
+#### Your GitHub profile must be included in the following list:
+
+### [BTC Devs list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+
+<b>example</b>
+
+<b>BTC Dev</b> [iamycoin](https://github.com/iamycoin) <b><i>MyCoin Addr</i></b>: bc1qzye2gs3mja20n3jcew07udlq9g4rklue2 <b>780 commits</b> <b><i>780 MycCoin Coins</i></b>
