@@ -49,3 +49,13 @@ I am ready now to share Coins to all <b>828 Bitcoin Devs</b> in order to get the
 <b>example</b>
 
 <b>BTC Dev</b> [iamycoin](https://github.com/iamycoin) <b><i>MyCoin Addr</i></b>: bc1qzye2gs3mja20n3jcew07udlq9g4rklue2 <b>780 commits</b> <b><i>780 MycCoin Coins</i></b>
+
+<hr>
+
+# 1 Mil MyCoin Coins Giveaway
+
+I will donate 1 mil MyCoin Coins on random way to who will keep a full node.
+
+Each of you will receive a donation for about 10k MyCoin Coins. I will start to choose one per day once the MyCoin Coin will hit the market value 1 $/unit.
+
+In total will be 100 rewards and will be updated over here.
