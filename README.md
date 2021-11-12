@@ -32,7 +32,11 @@ So in order to trust you must believe in this Crypto is not managed by stupids o
 
 [MASTERCARD](https://en.wikipedia.org/wiki/Mastercard) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-Total Coins ready to be sent 7_000_000
+[Bloomberg](https://en.wikipedia.org/wiki/Bloomberg_News) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
+
+[Wired](https://en.wikipedia.org/wiki/Wired_(magazine)) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
+
+Total Coins ready to be sent 8_000_000
 Do not hesitate to open a topic on BitcoinTalk Community to suggest more entities or people you trust, I will follow the BitcoinTalk to find out who is next for the donation list after votes number. 
 
 In order to get my donation the people and entities from the list above have to pull request this README file with their own MyCoin Address where to be send the Coins, they must use a verified(official) account recognized by GitHub Platform.
