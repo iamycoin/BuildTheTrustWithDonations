@@ -36,7 +36,11 @@ So in order to trust you must believe in this Crypto is not managed by stupids o
 
 [Wired](https://en.wikipedia.org/wiki/Wired_(magazine)) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
-Total Coins ready to be sent 8_000_000
+[The Economist](https://en.wikipedia.org/wiki/The_Economist) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
+
+[Oxford University](https://www.ox.ac.uk/) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
+
+Total Coins ready to be sent 9_000_000
 
 Do not hesitate to open a topic on BitcoinTalk Community to suggest more entities or people you trust, I will follow the BitcoinTalk to find out who is next for the donation list after votes number. 
 
