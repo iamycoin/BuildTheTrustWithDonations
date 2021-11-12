@@ -2,7 +2,7 @@ First of all because I do not want to reveal my identity and as well it is a bit
 
 So in order to trust you must believe in this Crypto is not managed by stupids or by people with bad intentions or by people who nobody trust in them, like me a noname but with good intentions. I was thinking since I was started this project how to involve people in this project without to create obligations from both sides, and I found a solution which in my oppinion is fair:
 
-<b><i>To donate most of coins mined till now by me to known trusted people what are recognized for their performance by anyone from this planet! At this moment I have mined +9 mil Coins which means more than 25% from 28 mil Coins what are available to be mined. I am happy to remain with 10% from the total mined Coins and to make donations to next people and companies:</b></i>
+<b><i>To donate most of coins mined till now by me to known trusted people what are recognized for their performance by anyone from this planet! At this moment I have mined +10 mil Coins which means more than 30% from 28 mil Coins what are available to be mined. I am happy to remain with 10% from the total mined Coins and to make donations to next people and companies:</b></i>
 
 [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
@@ -37,6 +37,7 @@ So in order to trust you must believe in this Crypto is not managed by stupids o
 [Wired](https://en.wikipedia.org/wiki/Wired_(magazine)) - 500K MyCoin Coins <b><i>In pending to be sent!</b></i>
 
 Total Coins ready to be sent 8_000_000
+
 Do not hesitate to open a topic on BitcoinTalk Community to suggest more entities or people you trust, I will follow the BitcoinTalk to find out who is next for the donation list after votes number. 
 
 In order to get my donation the people and entities from the list above have to pull request this README file with their own MyCoin Address where to be send the Coins, they must use a verified(official) account recognized by GitHub Platform.
