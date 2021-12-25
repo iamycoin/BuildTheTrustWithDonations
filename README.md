@@ -47,6 +47,11 @@ Total Coins ready to be sent 9_500_000
 Do not hesitate to open a topic on BitcoinTalk Community to suggest more entities or people you trust, I will follow the BitcoinTalk to find out who is next for the donation list after votes number. 
 
 In order to get my donation the people and entities from the list above have to pull request this README file with their own MyCoin Address where to be send the Coins, they must use a verified(official) account recognized by GitHub Platform.
+<hr>
+
+# IF on 31.12.2021 no one of this people from list above will not gonna request the coins alocated I will open the "gate" for anyone who is interested to become part of this project, all what you have to do is to follow the instructions what will be publish on this doc after 31.12.2021
+
+# Min requirements: LinkedIn & GitHub real accounts & Face Verification. I am expecting to share 500K to 20 people for Free.
 
 <hr>
 
